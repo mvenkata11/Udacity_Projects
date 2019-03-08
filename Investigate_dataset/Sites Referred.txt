@@ -1,0 +1,6 @@
+Websites:
+
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.rename.html
+https://github.com/abodacs/DAND_Project2_Investigate-a-Dataset
+Data Analysis process Case Study 1
+Data Analysis process Case Study 2

@@ -1,0 +1,2 @@
+https://www.statisticssolutions.com/correlation-pearson-kendall-spearman/
+https://ggplot2.tidyverse.org/reference/scale_brewer.html
